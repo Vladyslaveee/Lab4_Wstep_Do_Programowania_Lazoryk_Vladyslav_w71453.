@@ -1,7 +1,7 @@
 def przedstaw_sie(imie, wiek=18):
     """
     Funkcja wypisuje imię i wiek podane jako parametry.
-    Wiek ma wartość domyślną 20.
+    Wiek ma wartość domyślną 18.
     """
     print(f"Cześć, mam na imię {imie}, a mój wiek to {wiek}.")
 
